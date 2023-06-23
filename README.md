@@ -1,5 +1,7 @@
 # 32-bit-CPU-based-on-MIPS-architecture
 
+**![MIPS Dataflow](./DATAFLOW.png)**
+
 This repository contains the design and implementation of a 32-bit MIPS Processor using Verilog HDL. The processor is capable of executing various MIPS instructions and includes key components such as the Instruction Memory, Register File, ALU, Data Memory, and Control Unit.
 
 ## Instruction Set
